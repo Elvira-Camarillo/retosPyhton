@@ -7,7 +7,9 @@
 # - El numero que se MANDA a la funcion tiene que ser de tipo INT
 
 def list_of_multiples(number,len_multiples):
-    if type(number) != int or type(len_multiples) != int:
+    x = isinstance(number,int)
+    y = isinstance(len_multiples,int)
+    if x != True or y != True:
         return 'Ingresa un número por favor'
     elif number < 0 or len_multiples <0 :
         return 'Ingresa números positivos por favor'
@@ -18,4 +20,5 @@ def list_of_multiples(number,len_multiples):
     return multiples_number
         
 list_of_multiples(2,6)
-
+list_of_multiples('2',6)
+list_of_multiples(2,-6)
