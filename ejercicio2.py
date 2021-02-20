@@ -22,3 +22,4 @@ def list_of_multiples(number,len_multiples):
 list_of_multiples(2,6)
 list_of_multiples('2',6)
 list_of_multiples(2,-6)
+

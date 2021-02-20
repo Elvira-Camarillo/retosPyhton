@@ -40,3 +40,11 @@ Vean que la lista contiene el numero que le pasan como argumento
 ​
 **Restricciones**
 - Los argumentos no puede ser negativos
+
+## Ejercicio 3
+Crear una funcion que devuelva el factorial de un numero
+**Ejemplos**
+`factorial(3) -> 6` (3*2*1)
+`factorial(4) -> 24` (4*3*2*1)
+**Tips**
+- Investigar que demonios es recursividad
