@@ -1,5 +1,5 @@
 # retosPyhton
-Ejercicios clase sábado
+Ejercicios clase sábado 20/02/20
 
 ​
 ### Code styling
