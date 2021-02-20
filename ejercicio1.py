@@ -1,5 +1,5 @@
 ## Ejercicio 1
-​
+​#
 # Crear una funcion que reciba un numero como argumento y devuelva el largo de este numero
 # ​
 # **Ejemplo**

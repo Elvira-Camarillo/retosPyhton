@@ -24,3 +24,19 @@ Crear una funcion que reciba un numero como argumento y devuelva el largo de est
 - El numero no puede ser negativo
 - El numero que se MANDA a la funcion tiene que ser de tipo INT
 - **NO** se puede utilizar el metodo length
+
+## Ejercicio 2
+​
+Crear una funcion que reciba dos numeros como argumentos (numero, longitud), y devolver una lista con los multiplos del numero dada la longitud
+​
+**Ejemplos**
+​
+`list_of_multiples(7, 5) ➞ [7, 14, 21, 28, 35]`
+​
+`list_of_multiples(17, 6) ➞ [17, 34, 51, 68, 85, 102]`
+​
+**Notas**
+Vean que la lista contiene el numero que le pasan como argumento
+​
+**Restricciones**
+- Los argumentos no puede ser negativos
