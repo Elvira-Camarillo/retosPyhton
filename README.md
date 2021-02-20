@@ -1,2 +1,2 @@
 # retosPyhton
-Ejercicios clase sábados
+Ejercicios clase sábado
